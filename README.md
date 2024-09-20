@@ -1,4 +1,11 @@
+# Restaurant-Template
+Restaurant Template Design, customizable and can be updated
 # Website for China River, Beverly MA
+
+September 20, 2024
+-This is a local copy for my portfolio to allow me to continue building and developing to make improvements, no longer active and does not reflect the current organization's page. 
+
+** FOR REFERENCE ONLY **
 
 February 14th, 2024
 - This website is no longer maintained by the original owner. Please update bookmarks. Will archive this project for personal projects moving forward.
